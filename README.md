@@ -1,5 +1,4 @@
-# pr-template
-Pull Request template
+# Pull Request template
 
 
 <!--
